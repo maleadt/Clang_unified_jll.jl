@@ -1,0 +1,9 @@
+[[Clang_unified]]
+arch = "aarch64"
+git-tree-sha1 = "9e95befc109b997d9d56b112d865f34846703d3e"
+llvm_version = "15"
+os = "macos"
+
+    [[Clang_unified.download]]
+    sha256 = "aafc5341817fd46390e9630566c2362ad7a7e2831ed3f7607b7f1607b32b8562"
+    url = "https://github.com/maleadt/Clang_unified_jll.jl/releases/download/Clang_unified-v0.1.0+1/Clang_unified.v0.1.0.aarch64-apple-darwin-llvm_version+15.tar.gz"
