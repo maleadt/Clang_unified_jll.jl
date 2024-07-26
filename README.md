@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 `Clang_unified_jll.jl` is available for the following platforms:
 
-* `macOS aarch64 {llvm_version=16}` (`aarch64-apple-darwin-llvm_version+16`)
+* `macOS aarch64 {llvm_version=15}` (`aarch64-apple-darwin-llvm_version+15`)
 
 ## Dependencies
 
